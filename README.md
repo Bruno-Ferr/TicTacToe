@@ -1,5 +1,5 @@
 # TicTacToe
-A basic Tic Tac Toe, i focused more on javascript so the game is not pretty.
+A basic Tic-Tac-Toe. I focused more on javascript so the game is not pretty.
 
 ![](/assets/TicTacToe.png)
 
