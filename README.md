@@ -7,4 +7,4 @@ A basic Tic-Tac-Toe. I focused more on javascript so the game is not pretty.
 - [x] Winner alert
 - [x] Restart button
 - [x] Scoreboard
-- [x] Placar de pontos do jogador da vez fica em destaque
+- [x] Player's scoreboard is highlighted if it is his turn to play
